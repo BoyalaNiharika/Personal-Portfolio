@@ -1,0 +1,19 @@
+[
+  {
+    "key": 1,
+    "title": "Kidney Stones and Tumors Detection",
+    "imageSrc": "projects/kidney.png",
+    "description": "This is a project made with complete Flask, HTML, CSS.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/BoyalaNiharika/Kidney-Stones-and-Tumors-Detection"
+  },
+  {
+    "key": 2,
+    "title": "Electronic Health Record - Stanley",
+    "imageSrc": "projects/ehr.jpg",
+    "description": "This is a project made with complete HTML, CSS, JavaScript, JSP.",
+    "demo": "React_Animated_Portfolio_YouTube-main/public/assets/skills/ehrstanley project.mp4",
+    "source": "https://github.com/BoyalaNiharika/Electronic-Health-Record---Stanley/"
+  
+  }
+]
